@@ -1,0 +1,2 @@
+https://github.com/pythonimpressionador/Teste
+https://github.com/kivy/buildozer

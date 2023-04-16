@@ -1,0 +1,2 @@
+https://drive.google.com/drive/folders/1zEFcbpo1tQtQw-a1vfblxZzXKWbTccdf
+https://pypi.org/project/dj3-cloudinary-storage/
